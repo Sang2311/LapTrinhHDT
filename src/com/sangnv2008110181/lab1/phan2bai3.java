@@ -1,4 +1,4 @@
-package lab1;
+package com.sangnv2008110181.lab1;
 import java.util.Scanner;
 public class phan2bai3 {
     public static void main(String[] args) 
