@@ -10,7 +10,8 @@ public class Circle {
     void phatRaAmThanh (){
         System.out.println ("ring ring");
     }
-    Circle(boolean n, String s){
+    Circle(){}
+    public Circle(boolean n, String s){
         nhapChuot = n ;
         amThanh = s;
         soLanNhapChuot++;

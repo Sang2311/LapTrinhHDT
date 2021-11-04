@@ -5,6 +5,7 @@ public class LionTestDrive {
         Lion lion = new Lion ();
         lion.makeNoise();
         lion.eat();
+        lion.roam();
 
         
     

@@ -3,9 +3,9 @@ package Tuan07;
 public class Animal {
     private int picture;
     private String food;
-    private int hunger;
-    private String roam;
-     
+    protected int hunger;
+    private String boundaries;
+     private int location;
      protected void makeNoise (){
          System.out.println ("A..a.a.a..a.a.a.");
      }

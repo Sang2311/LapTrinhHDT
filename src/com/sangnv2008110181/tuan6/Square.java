@@ -10,10 +10,11 @@ public class Square {
     void phatRaAmThanh (){
         System.out.println ("rang rang");
     }
-    Square(boolean n, String s){
+     Square(boolean n, String s){
         nhapChuot = n ;
         amThanh = s;
         soLanNhapChuot++;
+        
     }
     
 }
